@@ -1,4 +1,3 @@
-# 202_A3
 # CS 201 Computer Systems Programming, A3 Floating Point
 - Original lab by markem, tweaked by naak. 
 - Test suite by theod.
